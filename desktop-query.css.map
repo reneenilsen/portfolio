@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "desktop-query.scss"
+    ],
+    "names": [],
+    "file": "desktop-query.css"
+}
