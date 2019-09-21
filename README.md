@@ -1,5 +1,5 @@
 # https://reneenilsen.github.io/portfolio/index.html
-#https://github.com/reneenilsen/portfolio
+# https://github.com/reneenilsen/portfolio
 # Purpose
 The purpose of this website is to showcase my recently learnt skills of HTML and CSS/SCSS while creating a portfolio piece for potential employers and others to view my work. Through this website the user can also access my Twitter, LinkedIn, Medium and Git repository.
 # Functionality / features
