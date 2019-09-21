@@ -40,11 +40,11 @@ header {
       }
     
       a:hover {
-        color: $pink-background-color;
+        color: grey;
       }
     
       a:active {
-        color: $pink-background-color;
+        color: grey;
       }
   }
 }
@@ -60,11 +60,6 @@ header {
   h1 {
     font-family: "Molle", cursive;
     font-size: 5rem;
-  }
-
-  h1:hover {
-    color: $pink-background-color;
-    transition: ease-in-out 1s;
   }
 
   img {
